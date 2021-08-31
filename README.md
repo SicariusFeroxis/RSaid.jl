@@ -1,0 +1,2 @@
+# RSaid.jl
+Runescape Assistant
